@@ -1,0 +1,7 @@
+# Development environment
+.vagrant
+.claude/settings.local.json
+.claude/prompts
+
+# Temporary and binary files
+.DS_Store

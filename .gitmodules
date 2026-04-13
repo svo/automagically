@@ -1,0 +1,6 @@
+[submodule "reference/python-sprint-zero"]
+	path = reference/python-sprint-zero
+	url = git@github.com:svo/python-sprint-zero.git
+[submodule "reference/www-qual-is"]
+	path = reference/www-qual-is
+	url = git@github.com:svo/www-qual-is.git
